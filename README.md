@@ -2,7 +2,7 @@
 
 ## Data Science Analyst |  Digital Transformation Lead
 
-> Transforming business operations through intelligent automation and data-driven solutions
+> Transforming business operations through automation and data-driven solutions, with complex components and sometimes using simple if statements.
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/bytsea)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:roshan@bytsea.com)
