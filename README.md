@@ -4,7 +4,7 @@
 
 > Transforming business operations through intelligent automation and data-driven solutions
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/bytsea)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:roshan@bytsea.com)
 [![Website](https://img.shields.io/badge/-Website-000000?style=flat&logo=About.me&logoColor=white)](https://bytsea.com)
 
@@ -21,7 +21,7 @@ class DigitalTransformationLead:
         self.focus = ["RPA", "AI Automation", "Business Intelligence", "Process Optimization"]
         
     def current_mission(self):
-        return "Driving 40% operational efficiency through intelligent automation"
+        return "Driving operational efficiency through intelligent automation"
 ```
 
 ---
