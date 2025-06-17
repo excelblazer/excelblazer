@@ -1,6 +1,6 @@
 # Hi there, I'm Roshan 👋
 
-## 🚀 Digital Transformation Lead | Automation Strategist | Data Science Analyst
+## Data Science Analyst |  Digital Transformation Lead
 
 > Transforming business operations through intelligent automation and data-driven solutions
 
