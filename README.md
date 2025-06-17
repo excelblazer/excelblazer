@@ -71,9 +71,9 @@ class DigitalTransformationLead:
 
 <div align="center">
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=excelblazer&show_icons=true&theme=radical&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=excelblazer&layout=compact&theme=radical)
 
 </div>
 
@@ -193,9 +193,9 @@ I'm always interested in collaborating on:
 
 ### 📫 **Reach Out:**
 - 📧 Email: roshan@bytsea.com
-- 💼 LinkedIn: [Connect with me](https://linkedin.com/in/your-profile)
+- 💼 LinkedIn: [Connect with me](https://linkedin.com/in/bytsea)
 - 🌐 Website: [bytsea.com](https://bytsea.com)
-- 📱 Phone: +91-9990895339
+
 
 ---
 
@@ -203,7 +203,7 @@ I'm always interested in collaborating on:
 
 ### 💡 *"Transforming complex business challenges into scalable, automated solutions"*
 
-![Profile Views](https://komarev.com/ghpvc/?username=your-username&color=brightgreen)
+![Profile Views](https://komarev.com/ghpvc/?username=excelblazer&color=brightgreen)
 
 </div>
 
