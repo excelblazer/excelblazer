@@ -1,3 +1,5 @@
+
+
 # Hi there, I'm Roshan 👋
 
 ## Data Science Analyst |  Digital Transformation Lead
@@ -7,7 +9,7 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/bytsea)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:roshan@bytsea.com)
 [![Website](https://img.shields.io/badge/-Website-000000?style=flat&logo=About.me&logoColor=white)](https://bytsea.com)
-
+![Profile Views](https://komarev.com/ghpvc/?username=excelblazer&color=brightgreen)
 ---
 
 ### 🎯 What I Do
@@ -69,11 +71,8 @@ class DigitalTransformationLead:
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=excelblazer&show_icons=true&theme=radical&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=excelblazer&layout=compact&theme=radical)
+# GitHub stats
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=excelblazer&layout=compact)](https://github.com/excelblazer/github-readme-stats)
 
 </div>
 
@@ -203,7 +202,7 @@ I'm always interested in collaborating on:
 
 ### 💡 *"Transforming complex business challenges into scalable, automated solutions"*
 
-![Profile Views](https://komarev.com/ghpvc/?username=excelblazer&color=brightgreen)
+
 
 </div>
 
