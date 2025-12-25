@@ -38,10 +38,10 @@ class Roshan:
     
     def achievements_2024(self):
         return {
-            "efficiency_gains": "40% operational improvement",
-            "user_deployment": "240+ Co-Pilot users",
+            "efficiency_gains": "operational improvement",
+            "user_deployment": "easy to manage for users",
             "award": "Rising Star 2024 🌟",
-            "automation_impact": "60% reduction in manual processes"
+            "automation_impact": "reduction in manual processes"
         }
 ```
 
