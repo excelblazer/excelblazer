@@ -1,165 +1,93 @@
+# Hey there, I'm Roshan 👋
 
+<div align="center">
 
-# Hi there, I'm Roshan 👋
+### Data Science Analyst | Digital Transformation Lead | Automation Architect
 
-## Data Science Analyst |  Digital Transformation Lead
+*Building intelligent systems that transform business operations—sometimes with ML models, sometimes with elegant if statements*
 
-> Transforming business operations through automation and data-driven solutions, with complex components and sometimes using simple if statements.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/bytsea)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail)](mailto:roshan@bytsea.com)
+[![Website](https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=About.me)](https://bytsea.com)
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/bytsea)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:roshan@bytsea.com)
-[![Website](https://img.shields.io/badge/-Website-000000?style=flat&logo=About.me&logoColor=white)](https://bytsea.com)
-![Profile Views](https://komarev.com/ghpvc/?username=excelblazer&color=brightgreen)
----
-
-### 🎯 What I Do
-
-```python
-class DigitalTransformationLead:
-    def __init__(self):
-        self.name = "Roshan"
-        self.role = "Data Science Analyst & Automation Strategist"
-        self.experience = "10+ years"
-        self.focus = ["RPA", "AI Automation", "Business Intelligence", "Process Optimization"]
-        
-    def current_mission(self):
-        return "Driving operational efficiency through intelligent automation"
-```
-
----
-
-## 🛠️ Tech Stack & Tools
-
-### **Programming & Scripting**
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-336791?style=flat&logo=postgresql&logoColor=white)
-![VBA](https://img.shields.io/badge/-VBA-217346?style=flat&logo=microsoft-excel&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-
-**Libraries & Frameworks:**
-- **Python:** Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn
-- **Web:** React, HTML5, CSS3, REST APIs
-- **Database:** PostgreSQL, MS Access, Complex Joins & Subqueries
-
-### **Data Analytics & BI**
-![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
-![Excel](https://img.shields.io/badge/-Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
-![Looker](https://img.shields.io/badge/-Looker-4285F4?style=flat&logo=looker&logoColor=white)
-
-- **Dashboards:** Executive KPI Dashboards, Real-time Analytics
-- **Reporting:** MIS Templates, Performance Analytics, Data Visualization
-- **Tools:** IBM Cognos, Advanced Excel Macros, Custom BI Solutions
-
-### **Automation & Integration**
-![Power Automate](https://img.shields.io/badge/-Power%20Automate-0078D4?style=flat&logo=microsoft&logoColor=white)
-![SharePoint](https://img.shields.io/badge/-SharePoint-0078D4?style=flat&logo=microsoft-sharepoint&logoColor=white)
-
-- **RPA Platforms:** Power Apps, Power Automate, Custom Workflow Solutions
-- **Integration:** ZOHO Suite (Books, Sign, HRMS), ERP Systems, CRM Integration
-- **AI/ML:** OCR Technology, Agentic AI Solutions, ML Model Implementation
-
-### **Cloud & DevOps**
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
-
-- **AWS:** EC2, S3, Infrastructure Management
-- **Microsoft 365:** Administration, Co-Pilot Deployment (240+ users)
-- **Version Control:** Git, GitHub, GitLab
-
----
-
-## 📊 GitHub Stats
-
-# GitHub stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=excelblazer&layout=compact)](https://github.com/excelblazer/github-readme-stats)
+![Profile Views](https://komarev.com/ghpvc/?username=excelblazer&color=blueviolet&style=flat-square)
 
 </div>
 
 ---
 
-## 💼 Professional Highlights
+## 🚀 About Me
 
-### 🏆 **Recent Achievements**
-- **🌟 Rising Star Award 2024** - Outstanding leadership in business operations transformation
-- **📈 40% Operational Efficiency** - Through RPA and AI-driven automation implementation
-- **👥 240+ Users** - Successfully deployed Microsoft Co-Pilot enterprise-wide
-- **⚡ 60% Process Improvement** - Reduced manual intervention through Power Automate solutions
-
-### 🎯 **Current Focus Areas**
-```mermaid
-graph LR
-    A[Digital Transformation] --> B[RPA Implementation]
-    A --> C[AI/ML Integration]
-    A --> D[Business Intelligence]
-    B --> E[Process Automation]
-    C --> F[OCR & Document Processing]
-    D --> G[Executive Dashboards]
+```python
+class Roshan:
+    def __init__(self):
+        self.role = "Data Science Analyst & Automation Strategist"
+        self.experience = "10+ years driving digital transformation"
+        self.mission = "Turning data into decisions, processes into automation"
+        self.current_focus = [
+            "Agentic AI Solutions",
+            "Intelligent Automation",
+            "Enterprise BI Systems",
+            "MCP Server Integration"
+        ]
+    
+    def daily_driver(self):
+        tools = ["Python", "Power BI", "SQL", "Power Automate"]
+        philosophy = "Automate the boring stuff, analyze the rest"
+        return f"Building with {tools} | {philosophy}"
+    
+    def achievements_2024(self):
+        return {
+            "efficiency_gains": "40% operational improvement",
+            "user_deployment": "240+ Co-Pilot users",
+            "award": "Rising Star 2024 🌟",
+            "automation_impact": "60% reduction in manual processes"
+        }
 ```
 
 ---
 
-## 🔥 Featured Projects
+## 🛠️ Technology Arsenal
 
-### 📱 **Client Engagement-Billing-Timesheet Application**
-- **Tech Stack:** Python, React, SQL, REST APIs
-- **Impact:** 30% improvement in client satisfaction scores
-- **Features:** End-to-end workflow automation, real-time tracking, integrated billing
-
-### 📊 **Enterprise BI Dashboard Suite** 
-- **Tech Stack:** Power BI, SQL, Python automation scripts
-- **Impact:** 60% faster report delivery, eliminated manual errors
-- **Scope:** Sales, Marketing, HR, Finance, Operations standardization
-
-### 🤖 **OCR-ML Document Processing Pipeline**
-- **Tech Stack:** Python, ML Models, OCR Technology, Agentic AI
-- **Impact:** 20-30% efficiency gains in document processing
-- **Innovation:** Intelligent document classification and data extraction
-
----
-
-## 📈 Experience Timeline
-
-```
-2025-Present  │ Data Science Analyst - Deputy Manager @ AcoBloom International
-2024          │ Data & Project Analyst - Assistant Manager @ ShareSync Support
-2020-2023     │ Data Analyst - Assistant Manager @ J P CHAWLA & CO. LLP
-2018-2019     │ MIS Analyst - Senior Executive @ Strand Life Sciences
-2016-2018     │ Team Lead @ Quest Diagnostics India
-2013-2016     │ Executive @ Dr. Lal Path Labs
-```
-
----
-
-## 🌐 Domains of Expertise
-
+### Core Stack
 <table>
 <tr>
-<td valign="top" width="33%">
+<td valign="top" width="50%">
 
-### 🏥 **Healthcare & Diagnostics**
-- Digital service rollouts
-- Field operations optimization
-- Revenue analytics
-- Paramedical team training
-
-</td>
-<td valign="top" width="33%">
-
-### 💰 **Finance & Accounting**
-- Financial KPI dashboards
-- Billing reconciliation
-- Budget analysis
-- ZOHO Books implementation
+**Languages & Frameworks**
+- ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) Expert in Pandas, NumPy, Scikit-learn
+- ![SQL](https://img.shields.io/badge/-SQL-336791?style=flat-square&logo=postgresql&logoColor=white) Advanced queries, optimization, complex joins
+- ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) React, REST APIs, modern web
+- ![VBA](https://img.shields.io/badge/-VBA-217346?style=flat-square&logo=microsoft-excel&logoColor=white) Enterprise automation & macros
 
 </td>
-<td valign="top" width="33%">
+<td valign="top" width="50%">
 
-### 🏢 **Corporate Technology**
-- Digital transformation
-- System integration
-- Asset management
-- Process standardization
+**Data & Analytics**
+- ![Power BI](https://img.shields.io/badge/-Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black) Executive dashboards & KPI tracking
+- ![Excel](https://img.shields.io/badge/-Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white) Advanced modeling & automation
+- ![Looker](https://img.shields.io/badge/-Looker-4285F4?style=flat-square&logo=looker&logoColor=white) Data visualization expert
+- **IBM Cognos** | Real-time analytics | MIS reporting
+
+</td>
+</tr>
+<tr>
+<td valign="top" width="50%">
+
+**Automation & AI**
+- ![Power Automate](https://img.shields.io/badge/-Power_Automate-0078D4?style=flat-square&logo=microsoft&logoColor=white) RPA workflows
+- **OCR & ML Models** | Document intelligence
+- **Agentic AI Solutions** | Intelligent agents
+- **ZOHO Suite Integration** | Books, Sign, HRMS
+
+</td>
+<td valign="top" width="50%">
+
+**Cloud & Infrastructure**
+- ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) EC2, S3, cloud architecture
+- ![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white) M365 admin & Co-Pilot deployment
+- ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white) Version control & CI/CD
+- ![SharePoint](https://img.shields.io/badge/-SharePoint-0078D4?style=flat-square&logo=microsoft-sharepoint&logoColor=white) Collaboration platforms
 
 </td>
 </tr>
@@ -167,47 +95,162 @@ graph LR
 
 ---
 
-## 📚 Learning & Development
+## 💼 Career Journey
 
-### **Currently Exploring**
-- Advanced Agentic AI Solutions
-- MCP Server Integration
-- Prompt Engineering Optimization
-- Model Fine-Tuning Techniques
-
-### **Certifications & Education**
-- 🎓 **MBA in Finance** - Amity University (2020)
-- 📜 **Microsoft 365 Administration**
-- 🔧 **Power Platform Specialist**
+```mermaid
+timeline
+    title Professional Evolution
+    2013-2016 : Executive @ Dr. Lal Path Labs
+              : Foundation in healthcare operations
+    2016-2018 : Team Lead @ Quest Diagnostics
+              : Leadership & process optimization
+    2018-2019 : MIS Analyst @ Strand Life Sciences
+              : Advanced analytics & reporting
+    2020-2023 : Assistant Manager @ J P CHAWLA & CO. LLP
+              : Data analytics & financial systems
+    2024 : Assistant Manager @ ShareSync Support
+         : Project management & digital transformation
+    2025-Present : Deputy Manager @ AcoBloom International
+                 : Leading data science & automation initiatives
+```
 
 ---
 
-## 🤝 Let's Connect!
+## 🎯 Impact Highlights
 
-I'm always interested in collaborating on:
-- 🤖 **Automation Projects** - RPA, AI-driven workflows
-- 📊 **Data Analytics** - BI dashboards, predictive analytics  
-- 🔄 **Digital Transformation** - Process optimization, system integration
-- 🚀 **Innovation Projects** - ML models, intelligent automation
+<div align="center">
 
-### 📫 **Reach Out:**
-- 📧 Email: roshan@bytsea.com
-- 💼 LinkedIn: [Connect with me](https://linkedin.com/in/bytsea)
-- 🌐 Website: [bytsea.com](https://bytsea.com)
+| 🏆 Achievement | 📈 Impact | 🎯 Outcome |
+|:---|:---:|---:|
+| **Rising Star Award 2024** | Enterprise-wide recognition | Leadership in transformation |
+| **RPA Implementation** | 40% efficiency gains | Reduced operational costs |
+| **Co-Pilot Deployment** | 240+ users onboarded | Enhanced productivity |
+| **Process Automation** | 60% manual reduction | Faster turnaround times |
+| **Client Satisfaction** | 30% improvement | Better engagement scores |
 
+</div>
+
+---
+
+## 🔥 Featured Projects
+
+### 🎯 Client Engagement & Billing Platform
+**Full-stack automation solution transforming client operations**
+- **Stack:** Python • React • PostgreSQL • REST APIs
+- **Features:** Real-time tracking, automated billing, workflow orchestration
+- **Impact:** 30% boost in client satisfaction, eliminated billing errors
+
+### 📊 Enterprise BI Dashboard Suite
+**Unified analytics platform across 5 departments**
+- **Stack:** Power BI • SQL • Python • Advanced DAX
+- **Scope:** Sales, Marketing, HR, Finance, Operations
+- **Impact:** 60% faster reporting, standardized KPI tracking
+
+### 🤖 Intelligent Document Processing Pipeline
+**ML-powered OCR system with agentic AI capabilities**
+- **Stack:** Python • ML Models • OCR Tech • Agentic AI
+- **Innovation:** Autonomous document classification and extraction
+- **Impact:** 20-30% efficiency gains in document workflows
+
+### 🔄 ZOHO ERP Integration Hub
+**Seamless integration across Books, Sign, and HRMS**
+- **Stack:** Python • ZOHO APIs • Power Automate
+- **Features:** Automated data sync, real-time updates
+- **Impact:** Eliminated manual data entry across systems
+
+---
+
+## 📊 GitHub Activity
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=excelblazer&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=excelblazer&layout=compact&theme=radical&hide_border=true&bg_color=0D1117)
+
+</div>
+
+---
+
+## 🎓 Continuous Learning
+
+**Currently Exploring:**
+- 🤖 Advanced Agentic AI architectures & MCP servers
+- 🧠 Prompt engineering optimization techniques
+- ⚡ Model fine-tuning and deployment strategies
+- 🔗 Enterprise AI integration patterns
+
+**Education & Certifications:**
+- 🎓 MBA in Finance — Amity University (2020)
+- 📜 Microsoft 365 Administration Specialist
+- 🔧 Power Platform Solutions Expert
+- 📊 Advanced Data Analytics Certification
+
+---
+
+## 🌐 Domain Expertise
+
+<table>
+<tr>
+<td align="center" width="33%">
+
+### 🏥 Healthcare & Diagnostics
+Digital transformation<br/>
+Operations optimization<br/>
+Revenue analytics<br/>
+Team training programs
+
+</td>
+<td align="center" width="33%">
+
+### 💰 Finance & Accounting
+Financial dashboards<br/>
+Billing automation<br/>
+Budget analytics<br/>
+ERP implementation
+
+</td>
+<td align="center" width="33%">
+
+### 🏢 Enterprise Technology
+Digital transformation<br/>
+System integration<br/>
+Asset management<br/>
+Process standardization
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🤝 Let's Collaborate
+
+I'm passionate about working on projects involving:
+
+- **🤖 Intelligent Automation** — RPA, AI-driven workflows, process optimization
+- **📊 Advanced Analytics** — Predictive models, BI dashboards, data visualization
+- **🔄 Digital Transformation** — System integration, modernization, change management
+- **🚀 Innovation** — ML/AI solutions, agentic systems, cutting-edge tech
+
+### 📬 Get in Touch
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/roshan@bytsea.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:roshan@bytsea.com)
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/bytsea)
+[![Portfolio](https://img.shields.io/badge/Visit_My_Website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://bytsea.com)
+
+</div>
 
 ---
 
 <div align="center">
 
-### 💡 *"Transforming complex business challenges into scalable, automated solutions"*
+### 💡 *"Transforming complex business challenges into scalable, automated solutions—one commit at a time"*
 
+**⭐ If you find my work interesting, consider following or starring my repositories!**
 
+![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
 
 </div>
-
-
-<!---
-excelblazer/excelblazer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
