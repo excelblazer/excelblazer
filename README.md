@@ -164,9 +164,9 @@ timeline
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=excelblazer&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=excelblazer&show_icons=true)](https://github.com/excelblazer)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=excelblazer&layout=compact&theme=radical&hide_border=true&bg_color=0D1117)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=excelblazer&layout=compact)](https://github.com/excelblazer)
 
 </div>
 
